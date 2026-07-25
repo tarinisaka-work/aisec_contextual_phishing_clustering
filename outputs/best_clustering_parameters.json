@@ -1,0 +1,5 @@
+{
+    "agglomerative": 47,
+    "dbscan_epsilon_factor": 0.5,
+    "kmeans": 81
+}
